@@ -4,6 +4,7 @@
 .nav-a {
 	font-size: 22px;
 	color: #3D58A6;
+	font-family: "BPG Nino Mtavruli", sans-serif;
 }
 .active{
 	color: #EE4036;
@@ -55,6 +56,7 @@
 }
 .left-block{
 	width: 570px;
+	height: 225px;
 	display: inline-block;
 	background-color: #F2F2F2;
 	margin-top:29.8px;
@@ -64,6 +66,7 @@
 }
 .right-block{
 	width: 570px;
+	height: 225px;
 	display: inline-block;
 	background-color: #F2F2F2;
     margin-top:29.8px
@@ -122,11 +125,19 @@
 }
 .satauri1{
 	margin: 40.5px 0px 17.5px 30px;
+	font-family: "ALK Sanet", sans-serif;
 }
 .article-text{
 	vertical-align: top;
 	margin: 21px 98px 33.9px 39px;
+	font-family: 'BPG Nino Mtavruli Bold';
 }
 .imgnews{
     margin: 17.5px 39px 185.4px 30px;
+}
+.container-block{
+	width: 1170px;
+	/*margin-right: auto;
+	margin-left: auto;*/
+	margin: 0 auto;
 }
